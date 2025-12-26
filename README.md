@@ -1,35 +1,38 @@
 <div align="center">
 
-<!-- Başlık ve Daktilo Efekti -->
+<!-- Başlık ve El Sallama -->
 
 <h1>Merhaba, Ben Narin Rabia! <img src="https://www.google.com/search?q=https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+
+<!-- Daktilo Efekti -->
 
 <a href="https://git.io/typing-svg">
 <img src="https://www.google.com/search?q=https://readme-typing-svg.demolab.com%3Ffont%3DFira%2BCode%26pause%3D1000%26color%3D2F81F7%26background%3D00000000%26center%3Dtrue%26vCenter%3Dtrue%26width%3D435%26lines%3DFull%2BStack%2BGeli%C5%9Ftirici%3BA%C3%A7%C4%B1k%2BKaynak%2BTutkunu%3BTeknoloji%2BMerakl%C4%B1s%C4%B1%3BS%C3%BCrekli%2B%C3%96%C4%9Frenen" alt="Typing Effect" />
 </a>
 
-<!-- Ziyaretçi Sayacı (İsteğe bağlı) -->
+<!-- Ziyaretçi Sayacı -->
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=[narinrabiasahin]&label=Profil+Görüntülenme&color=0e75b6&style=flat" alt="Ziyaretçi Sayacı" />
+<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3Dnarinrabiasahin%26label%3DProfil%2BG%C3%B6r%C3%BCnt%C3%BClenme%26color%3D0e75b6%26style%3Dflat" alt="Ziyaretçi Sayacı" />
 </p>
 
-<!-- Sosyal Medya Linkleri (Header) -->
+<!-- Sosyal Medya Linkleri -->
 
 <p align="center">
-<a href="https://www.google.com/search?q=https://linkedin.com/in/[Narin Rabia ŞAHİN]" target="[_blank](https://www.linkedin.com/in/narin-rabia-şahin-2740a9169/)">
+<a href="https://www.linkedin.com/in/narin-rabia-şahin-2740a9169/" target="_blank">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn"/>
 </a>
-<a href="mailto:[narin_banaz@outlook.com]">
+<a href="mailto:narin_banaz@outlook.com">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" alt="Email"/>
+</a>
 </p>
 </div>
 
-<!-- GitHub Kupaları (Gamification) -->
+<!-- GitHub Kupaları -->
 
 <div align="center">
 <a href="https://github.com/narinrabiasahin">
-<img src="https://www.google.com/search?q=https://github-profile-trophy.vercel.app/%3Fusername%3D[narinrabiasahin]&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
+<img src="https://www.google.com/search?q=https://github-profile-trophy.vercel.app/%3Fusername%3Dnarinrabiasahin%26theme%3Dradical%26no-frame%3Dtrue%26no-bg%3Dtrue%26margin-w%3D4" alt="Trophies" />
 </a>
 </div>
 
@@ -39,15 +42,15 @@
 
 Kod yazmayı, karmaşık problemleri basit çözümlere dönüştürmeyi ve modern web teknolojileriyle kullanıcı dostu arayüzler tasarlamayı seviyorum.
 
-🔭 Şu anda [Mevcut Projen veya Şirketin] üzerinde çalışıyorum.
+🔭 Şu anda web geliştirme projeleri üzerinde çalışıyorum.
 
-🌱 [Öğrenmekte Olduğun Teknoloji] ve sistem mimarileri hakkında kendimi geliştiriyorum.
+🌱 Modern Frontend Mimarileri ve sistem tasarımı hakkında kendimi geliştiriyorum.
 
 👯 Açık Kaynak projelerinde işbirliğine ve katkı sunmaya her zaman açığım.
 
-⚡ Eğlenceli Gerçek: Kod yazarken [Favori İçeceğin veya Müziğin] olmadan odaklanamıyorum!
+⚡ Eğlenceli Gerçek: Kod yazarken Kahve olmadan odaklanamıyorum!
 
-📫 Bana ulaşmak için: [E-posta Adresin]
+📫 Bana ulaşmak için: narin_banaz@outlook.com
 
 🛠️ Teknoloji & Araçlarım
 
@@ -83,16 +86,16 @@ Aşağıdaki grafikler GitHub üzerindeki aktivitelerimi otomatik olarak güncel
 
 <div align="center">
 <!-- GitHub İstatistik Kartı -->
-<img src="https://github-readme-stats.vercel.app/api?username=[KULLANICI_ADIN]&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180" alt="stats graph" />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dnarinrabiasahin%26show_icons%3Dtrue%26count_private%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D0d1117" height="180" alt="stats graph" />
 
 <!-- En Çok Kullanılan Diller -->
 
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3D[KULLANICI_ADIN]&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180" alt="languages graph" />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dnarinrabiasahin%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D0d1117" height="180" alt="languages graph" />
 </div>
 
 <div align="center">
 <!-- GitHub Streak (Seri) Grafiği -->
-<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3D[KULLANICI_ADIN]&theme=tokyonight&hide_border=true&background=0d1117" alt="streak graph" />
+<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Dnarinrabiasahin%26theme%3Dtokyonight%26hide_border%3Dtrue%26background%3D0d1117" alt="streak graph" />
 </div>
 
 <div align="center">
