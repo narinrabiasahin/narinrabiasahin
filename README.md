@@ -28,7 +28,7 @@
 <!-- GitHub Kupaları (Gamification) -->
 
 <div align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy">
+<a href="https://github.com/narinrabiasahin">
 <img src="https://www.google.com/search?q=https://github-profile-trophy.vercel.app/%3Fusername%3D[narinrabiasahin]&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
 </a>
 </div>
