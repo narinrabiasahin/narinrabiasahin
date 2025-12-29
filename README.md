@@ -8,12 +8,11 @@
 <!-- Ziyaretçi Sayacı -->
 <p>
   <img src="https://komarev.com/ghpvc/?username=narinrabiasahin&label=Profil+Görüntülenme&color=0e75b6&style=flat" alt="Ziyaretçi Sayacı" />
-  <img src="https://img.shields.io/github/followers/narinrabiasahin?label=Takipçiler&style=social" alt="GitHub Takipçi" />
 </p>
 
 <!-- Sosyal Medya Bağlantıları -->
 <p>
-  <a href="https://www.linkedin.com/in/narin-rabia-şahin-2740a9169/" target="_blank">
+  <a href="https://www.linkedin.com/in/narin-rabia-şahin-2740a9169/" target="https://www.linkedin.com/in/narin-rabia-şahin-2740a9169">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:narin_banaz@outlook.com">
