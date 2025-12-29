@@ -228,14 +228,6 @@ Açık kaynak projelerimde birlikte çalışmak veya yeni projeler geliştirmek 
 
 ---
 
-## ☕ Beni Destekleyin
-
-Eğer projelerimi beğendiyseniz, bir kahve ısmarlayabilirsiniz! ☕
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/narinrabia)
-
----
-
 <div align="center">
 
 ### 🎨 Profilimi Beğendiniz mi? Yıldız vermeyi unutmayın! ⭐
